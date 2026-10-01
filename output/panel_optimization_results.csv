@@ -1,0 +1,4 @@
+candidate,mean_silhouette,n_samples_scored
+partial_manual,0.5319058080197305,32
+full_matrix,0.5274924825603311,32
+uncompensated,0.5183994653926993,32
